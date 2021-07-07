@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0-windows</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Compression.BSA" Version="2.4.1.2" />
+      <PackageReference Include="Wabbajack.Common" Version="2.4.1.2" />
+    </ItemGroup>
+
+</Project>
